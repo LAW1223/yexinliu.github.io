@@ -21,12 +21,12 @@ Education
 
 Intern Experience
 ======
-* Jan.2024- May.2024 (expected)
+* Jan.2024- Jul. 2024 (expected)
   * BAAI
   * Duties included: Design and pretrain MLLMs.
   * Supervisor: Principal Investigator Bo Zhao
 
-* Jan.2024- Apr.2024 (expected)
+* Dec.2023- Mar.2024
   * The Hong Kong Polytechnic University
   * Duties included: Design and pretrain MLLMs.
   * Supervisor: Mingguang He
