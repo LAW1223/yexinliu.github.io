@@ -29,11 +29,11 @@ Intern Experience
 * Dec.2023- Mar.2024
   * The Hong Kong Polytechnic University
   * Duties included: Design and pretrain MLLMs.
-  * Supervisor: Mingguang He
+  * Supervisor: Prof. Mingguang He
 * Dec.2023- Jan.2024
     * Peking University
     * Duties included: AI-based fashion design.
-    * Supervisor: Yijie Peng
+    * Supervisor: Prof. Yijie Peng
 
 Publications
 ======
