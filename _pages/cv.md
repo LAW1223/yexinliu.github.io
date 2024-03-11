@@ -34,7 +34,7 @@ Work experience
 
 Publications
 ======
-* Yexin Liu, Xiaolan Chen, Weiyi Zhang, Mingguang he, Lin Wang, Danli Shi. EyeBlend: A Multimodal Large Language Model for Ophthalmology (Under Review MICCAI 2024)
+* **Yexin Liu**, Xiaolan Chen, Weiyi Zhang, Mingguang he, Lin Wang, Danli Shi. EyeBlend: A Multimodal Large Language Model for Ophthalmology (Under Review MICCAI 2024)
 * He, Muyang* and Liu, Yexin* and Wu, Boya* and Yuan, Jianhao and Wang, Yueze and Huang, Tiejun and Zhao, Bo. Efficient Multimodal Learning from Data-centric Perspective. arXiv:2402.11530. (https://github.com/BAAI-DCAI/Bunny).
 * Weiming Zhang, Yexin Liu, Zheng X, Lin Wang. SAM is a Good Teacher: Towards Distortion-aware Unsupervised 3600 Image Semantic Segmentation. CVPR 2024
 * Xu Zheng, Jingjin Zhu, Yexin Liu, Zidong Cao, Chong Fu, Lin Wang. Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation.CVPR. 2023: 1285-1295.
