@@ -22,7 +22,7 @@ Education
 Intern Experience
 ======
 * Jan.2024- Jul. 2024 (expected)
-  * BAAI
+  * Beijing Academy of Artificial Intelligence (BAAI)
   * Duties included: Design and pretrain MLLMs.
   * Supervisor: Principal Investigator Bo Zhao
 
