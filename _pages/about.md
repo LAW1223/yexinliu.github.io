@@ -37,7 +37,7 @@ Intern Experience
 
 Publications
 ======
-* Muyang He*, _Yexin Liu_*, Boya Wu*, Jianhao Yuan, Yueze Wang, Tiejun Huang, Bo, Zhao. Efficient Multimodal Learning from Data-centric Perspective. arXiv:2402.11530. (https://github.com/BAAI-DCAI/Bunny).
+* Muyang He*, Yexin Liu*, Boya Wu*, Jianhao Yuan, Yueze Wang, Tiejun Huang, Bo, Zhao. Efficient Multimodal Learning from Data-centric Perspective. arXiv:2402.11530. (https://github.com/BAAI-DCAI/Bunny).
 * **Yexin Liu**, Xiaolan Chen, Weiyi Zhang, Zongyuan Ge, Mingguang he, Lin Wang, Danli Shi. EyeBlend: A Multimodal Large Language Model for Ophthalmology. (Under Review MICCAI 2024)
 * Weiming Zhang, **Yexin Liu**, Zheng X, Lin Wang. SAM is a Good Teacher: Towards Distortion-aware Unsupervised 3600 Image Semantic Segmentation. CVPR 2024
 * Xu Zheng, Jingjin Zhu, **Yexin Liu**, Zidong Cao, Chong Fu, Lin Wang. Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation. CVPR 2023.
