@@ -10,7 +10,7 @@ redirect_from:
 I'm a second-year MPhil student from [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). I am very fortunate to be advised by [Prof. Ling Wang](https://scholar.google.com/citations?user=SReb2csAAAAJ&hl=en) of [VLSLAB](https://vlislab22.github.io/vlislab/) from [Information Hub](https://www.hkust-gz.edu.cn/). My research interest includes computer vision, MLLMs, and transfer learning. 
 
 I'm currently immersed in my internship journey within the Data Intelligence group at BAAI, where I have the privilege of being under the guidance of the Principal Investigator [Zhao Bo](https://www.bozhao.me/).
-You can find my CV here: [yexin's Curriculum Vitae](https://github.com/LAW1223/yexinliu.github.io/blob/master/assets/Resume.pdf). Email: yliu292@connect.hkust-gz.edu.cn.
+You can find my [Resume](https://github.com/LAW1223/yexinliu.github.io/blob/master/assets/Resume.pdf) here. Email: yliu292@connect.hkust-gz.edu.cn.
 
 Education
 ======
